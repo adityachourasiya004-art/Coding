@@ -71,3 +71,4 @@ rbtn.addEventListener('click', () => {
     tic.addEventListener("click", start)
 
 })
+// console.log("hello");
